@@ -23,6 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0246D19C291800660094CD74 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0246D19D291800FC0094CD74 /* Photogammetry2Mesh */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Photogammetry2Mesh; sourceTree = "<group>"; };
 		0287B6B12916AD4800CC2E0C /* Photogammetry2Mesh */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Photogammetry2Mesh; sourceTree = BUILT_PRODUCTS_DIR; };
 		0287B6B42916AD4800CC2E0C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,7 +43,9 @@
 		0287B6A82916AD4800CC2E0C = {
 			isa = PBXGroup;
 			children = (
+				0246D19C291800660094CD74 /* README.md */,
 				0287B6B32916AD4800CC2E0C /* Photogammetry2Mesh */,
+				0246D19D291800FC0094CD74 /* Photogammetry2Mesh */,
 				0287B6B22916AD4800CC2E0C /* Products */,
 			);
 			sourceTree = "<group>";
